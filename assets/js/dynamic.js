@@ -78,7 +78,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     container.appendChild(counterSection);
 
-    // 4. Поле ввода года (ВОССТАНОВЛЕНО)
+    // 4. Поле ввода года 
     const inputSection = document.createElement('div');
     inputSection.style.textAlign = 'center';
     inputSection.style.margin = '40px 0';
